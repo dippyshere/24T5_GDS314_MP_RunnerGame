@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Large asset files
+/Content/Jungle_pack/textures/*.uasset
+/Content/Jungle_pack/Landscape/textures/*.uasset
