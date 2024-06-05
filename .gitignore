@@ -76,3 +76,5 @@ DerivedDataCache/*
 # Large asset files
 /Content/Jungle_pack/textures/*.uasset
 /Content/Jungle_pack/Landscape/textures/*.uasset
+/Content/Marketplace/Jungle_pack/textures/*.uasset
+/Content/Marketplace/Jungle_pack/Landscape/textures/*.uasset
